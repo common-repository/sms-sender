@@ -1,0 +1,14 @@
+
+.wp-core-ui .edit-button, .wp-core-ui .edit-button:focus, .wp-core-ui .edit-button:hover{
+    color:green;
+}
+.wp-core-ui .delete-button, .wp-core-ui .delete-button:focus, .wp-core-ui .delete-button:hover{
+    color:red;
+}
+#countmessages {
+    font-weight: bold;
+}
+#balance {
+    font-weight: bold;
+    float: right;
+}

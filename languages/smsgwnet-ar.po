@@ -1,0 +1,201 @@
+# Copyright (C) 2015 Smsgwnet
+# This file is distributed under the same license as the Smsgwnet package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smsgwnet 0.1\n"
+"POT-Creation-Date: 2015-07-13 17:00:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: Arabic\n"
+"Last-Translator: Daif Alotaibi <daif@daif.net>\n"
+"Language-Team: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: templates/views/options_index.php:16
+msgid "API Pass:"
+msgstr "كلمة المرور:"
+
+#: templates/views/options_index.php:3
+msgid "API Provider:"
+msgstr "مزود الخدمة:"
+
+#: templates/views/options_index.php:10
+msgid "API TagName:"
+msgstr "اسم المرسل:"
+
+#: templates/views/options_index.php:13
+msgid "API User:"
+msgstr "اسم المستخدم:"
+
+#: templates/views/contacts_index.php:45 templates/views/messages_index.php:53
+#: templates/views/groups_index.php:31
+msgid "Action"
+msgstr "اجراء:"
+
+#: templates/views/contacts_index.php:1 templates/views/groups_index.php:1
+msgid "Add New"
+msgstr "اضافة جديد"
+
+#: templates/views/contacts_index.php:6 templates/views/contacts_index.php:23
+msgid "Contact Group"
+msgstr "المجموعة"
+
+#: templates/views/contacts_index.php:16 templates/views/contacts_index.php:33
+msgid "Contact Mobile"
+msgstr "الجوال"
+
+#: templates/views/contacts_index.php:13 templates/views/contacts_index.php:30
+msgid "Contact Name"
+msgstr "الاسم"
+
+#: includes/actions/contacts.php:80
+msgid "Contact has been deleted"
+msgstr "تم حذف جهة الاتصال"
+
+#: includes/actions/contacts.php:60
+msgid "Contact has been updated"
+msgstr "تم تحديث جهة الاتصال"
+
+#: templates/views/_header.php:17 templates/views/contacts_index.php:1
+#: templates/views/messages_index.php:52 templates/views/groups_index.php:30
+msgid "Contacts"
+msgstr "جهات الاتصال"
+
+#: templates/views/send_index.php:11
+msgid "Contacts:"
+msgstr "جهات الاتصال:"
+
+#: templates/views/contacts_index.php:2
+msgid "Control your contacts"
+msgstr "التحكم في جهات الاتصال"
+
+#: templates/views/groups_index.php:2
+msgid "Control your groups."
+msgstr "التحكم في المجموعات"
+
+#: templates/views/messages_index.php:2
+msgid "Control your messages."
+msgstr "التحكم في الرسائل"
+
+#: templates/views/messages_index.php:19
+msgid "Count"
+msgstr "عدد"
+
+#: templates/views/messages_index.php:11 templates/views/messages_index.php:28
+#: templates/views/messages_index.php:50
+msgid "Date"
+msgstr "التاريخ"
+
+#: templates/views/contacts_index.php:56 templates/views/messages_index.php:65
+#: templates/views/groups_index.php:42
+msgid "Delete"
+msgstr "حذف"
+
+#: templates/views/contacts_index.php:55 templates/views/groups_index.php:41
+msgid "Edit"
+msgstr "تعديل"
+
+#: templates/views/groups_index.php:8 templates/views/groups_index.php:18
+msgid "Group Name:"
+msgstr "اسم المجموعة:"
+
+#: includes/actions/groups.php:23
+msgid "Group has been added"
+msgstr "تم اضافة المجموعة"
+
+#: includes/actions/groups.php:51
+msgid "Group has been deleted"
+msgstr "تم حذف المجموعة"
+
+#: includes/actions/groups.php:37
+msgid "Group has been updated"
+msgstr "تم تحديث المجموعة"
+
+#: templates/views/_header.php:18 templates/views/groups_index.php:1
+msgid "Groups"
+msgstr "المجموعات"
+
+#: templates/views/send_index.php:3
+msgid "Groups:"
+msgstr "المجموعات:"
+
+#: templates/views/contacts_index.php:42 templates/views/messages_index.php:7
+#: templates/views/messages_index.php:27 templates/views/messages_index.php:49
+#: templates/views/groups_index.php:28
+msgid "ID"
+msgstr "الرقم:"
+
+#: templates/views/messages_index.php:15 templates/views/messages_index.php:51
+msgid "Message"
+msgstr "الرسالة"
+
+#: templates/views/send_index.php:19
+msgid "Message:"
+msgstr "الرسالة:"
+
+#: templates/views/_header.php:16 templates/views/messages_index.php:1
+msgid "Messages"
+msgstr "الرسائل"
+
+#: includes/actions/messages.php:45
+msgid "Messages has been deleted"
+msgstr "تم حذف الرسائل"
+
+#: templates/views/contacts_index.php:44 templates/views/messages_index.php:29
+msgid "Mobile"
+msgstr "الجوال"
+
+#: templates/views/messages_index.php:23
+msgid "Mobile numbers:"
+msgstr "أرقام الجوالات:"
+
+#: templates/views/contacts_index.php:43 templates/views/groups_index.php:29
+msgid "Name"
+msgstr "الاسم"
+
+#: templates/views/_header.php:19
+msgid "Options"
+msgstr "الخيارات"
+
+#: includes/actions/options.php:11
+msgid "Options has been saved"
+msgstr "تم حفظ الخيارات"
+
+#: templates/views/options_index.php:19
+msgid "SMS Balance:"
+msgstr "رصيد الرسائل:"
+
+#: templates/views/contacts_index.php:19 templates/views/contacts_index.php:36
+#: templates/views/groups_index.php:22
+msgid "Save"
+msgstr "حفظ"
+
+#: templates/views/send_index.php:22
+msgid "Send"
+msgstr "ارسال"
+
+#: templates/views/_header.php:15
+msgid "Send SMS"
+msgstr "ارسال رسالة"
+
+#: templates/views/messages_index.php:64
+msgid "Show"
+msgstr "عرض"
+
+#: templates/views/messages_index.php:30
+msgid "Status"
+msgstr "الحالة"
+
+#: templates/views/options_index.php:1
+msgid "The configurations, Find more at"
+msgstr "اعدادات النظام, للمزيد انظر هنا"
+
+#: templates/views/options_index.php:22
+msgid "Update"
+msgstr "تحديث"
+
+#: templates/views/send_index.php:19
+msgid "Your Balance:"
+msgstr "رصيدك:"
